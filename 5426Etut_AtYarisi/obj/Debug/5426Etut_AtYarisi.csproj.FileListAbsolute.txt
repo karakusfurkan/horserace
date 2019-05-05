@@ -1,0 +1,19 @@
+c:\users\pc\documents\visual studio 2013\Projects\5426Etut_AtYarisi\5426Etut_AtYarisi\bin\Debug\5426Etut_AtYarisi.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\5426Etut_AtYarisi\5426Etut_AtYarisi\bin\Debug\5426Etut_AtYarisi.exe
+c:\users\pc\documents\visual studio 2013\Projects\5426Etut_AtYarisi\5426Etut_AtYarisi\bin\Debug\5426Etut_AtYarisi.pdb
+c:\users\pc\documents\visual studio 2013\Projects\5426Etut_AtYarisi\5426Etut_AtYarisi\obj\Debug\5426Etut_AtYarisi.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\5426Etut_AtYarisi\5426Etut_AtYarisi\obj\Debug\_5426Etut_AtYarisi.Form1.resources
+c:\users\pc\documents\visual studio 2013\Projects\5426Etut_AtYarisi\5426Etut_AtYarisi\obj\Debug\_5426Etut_AtYarisi.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\5426Etut_AtYarisi\5426Etut_AtYarisi\obj\Debug\5426Etut_AtYarisi.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\5426Etut_AtYarisi\5426Etut_AtYarisi\obj\Debug\5426Etut_AtYarisi.exe
+c:\users\pc\documents\visual studio 2013\Projects\5426Etut_AtYarisi\5426Etut_AtYarisi\obj\Debug\5426Etut_AtYarisi.pdb
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\5426Etut_AtYarisi\5426Etut_AtYarisi\bin\Debug\5426Etut_AtYarisi.exe.config
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\5426Etut_AtYarisi\5426Etut_AtYarisi\bin\Debug\5426Etut_AtYarisi.exe
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\5426Etut_AtYarisi\5426Etut_AtYarisi\bin\Debug\5426Etut_AtYarisi.pdb
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\5426Etut_AtYarisi\5426Etut_AtYarisi\obj\Debug\5426Etut_AtYarisi.csprojAssemblyReference.cache
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\5426Etut_AtYarisi\5426Etut_AtYarisi\obj\Debug\_5426Etut_AtYarisi.Form1.resources
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\5426Etut_AtYarisi\5426Etut_AtYarisi\obj\Debug\_5426Etut_AtYarisi.Properties.Resources.resources
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\5426Etut_AtYarisi\5426Etut_AtYarisi\obj\Debug\5426Etut_AtYarisi.csproj.GenerateResource.cache
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\5426Etut_AtYarisi\5426Etut_AtYarisi\obj\Debug\5426Etut_AtYarisi.csproj.CoreCompileInputs.cache
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\5426Etut_AtYarisi\5426Etut_AtYarisi\obj\Debug\5426Etut_AtYarisi.exe
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\5426Etut_AtYarisi\5426Etut_AtYarisi\obj\Debug\5426Etut_AtYarisi.pdb
